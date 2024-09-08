@@ -22,7 +22,7 @@ h1{
 
 .choice:hover{
     cursor: pointer;
-    background-color: #081b31;
+    /* background-color: green; */
 }
 
 img{
